@@ -2,8 +2,6 @@
 ![top-langs](https://readme-stats-three-hazel.vercel.app/api/top-langs/?username=ashaller2017&theme=tokyonight&layout=compact)
 > *work on professional accounts
 <!--
-**theBGuy/theBGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
