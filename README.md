@@ -1,5 +1,5 @@
 ![github stats](https://readme-stats-three-hazel.vercel.app/api?username=ashaller2017&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![top-langs](https://readme-stats-three-hazel.vercel.app/api/top-langs/?username=ashaller2017&theme=tokyonight&layout=compact)
+![top-langs](https://readme-stats-three-hazel.vercel.app/api/top-langs/?username=ashaller2017&theme=tokyonight&layout=compact&hide=html,css)
 > *work on professional accounts
 <!--
 Here are some ideas to get you started:
