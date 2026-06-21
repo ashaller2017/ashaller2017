@@ -32,3 +32,8 @@ Founder of [Beta Bots](https://github.com/BetaBots-LLC). I build local-first dev
   <img height="165" src="https://readme-stats-three-hazel.vercel.app/api/top-langs/?username=ashaller2017&layout=compact&hide_border=true&langs_count=8&hide=html,css&title_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
 <p align="center"><sub>*most of my work lives on professional / private accounts</sub></p>
+
+
+#### Contributed to
+
+[expo/expo](https://github.com/expo/expo/pulls?q=author%3Aashaller2017) · [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing/pulls?q=author%3Aashaller2017)
